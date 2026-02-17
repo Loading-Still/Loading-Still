@@ -10,6 +10,7 @@ This is a fresh profile where i will try me best to record the projects that  i 
 
 - Solid Works, Inventor, Sketch up
 - Python, Matlab
+- Microsoft 365
 
 ---
 **About Me**
