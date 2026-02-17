@@ -11,6 +11,14 @@ This is a fresh profile where i will try me best to record the projects that  i 
 - Solid Works, Inventor, Sketch up
 - Python, Matlab
 
+---
+**About Me**
+
+- I Love Drawing
+- More of a coffee person
+- Like to read form time to time
+
+
 <!--
 **Loading-Still/Loading-Still** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
