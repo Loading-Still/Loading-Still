@@ -8,8 +8,8 @@ This is a fresh profile where i will try me best to record the projects that  i 
 ---
 **Tools & Teach**
 
-- Solid Works, Inventor
-- Python
+- Solid Works, Inventor, Sketch up
+- Python, Matlab
 
 <!--
 **Loading-Still/Loading-Still** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
