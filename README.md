@@ -1,4 +1,15 @@
 ## Hi there 👋
+This is Loading, Renewable Energy Engineer.
+
+I mostly work on project related to the mechanical machines, programming and designing them.
+
+This is a fresh profile where i will try me best to record the projects that  i work on in the future.
+
+---
+**Tools & Teach**
+
+- Solid Works, Inventor
+- Python
 
 <!--
 **Loading-Still/Loading-Still** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
