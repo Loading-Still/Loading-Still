@@ -17,7 +17,7 @@ This is a fresh profile where i will try me best to record the projects that  i 
 
 - ✏️ I Love Drawing
 - ☕ More of a coffee person
-- 📘 Like to read form time to time
+- 📘 Like to read from time to time
 
 
 <!--
