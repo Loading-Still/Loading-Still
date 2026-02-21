@@ -6,14 +6,14 @@ I mostly work on project related to the mechanical machines, programming and des
 This is a fresh profile where i will try me best to record the projects that  i work on in the future.
 
 ---
-**Tools & Teach**
+### Tools & Teach
 
 - Solid Works, Inventor, Sketch up
 - Python, Matlab
 - Microsoft 365
 
 ---
-**About Me**
+### About Me
 
 - ✏️ I Love Drawing
 - ☕ More of a coffee person
